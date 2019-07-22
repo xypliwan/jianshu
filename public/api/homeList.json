@@ -1,0 +1,31 @@
+{
+    "“success":true,
+    "data":{
+        "list":[{
+            "id": 1,
+            "title": "社会热点44444444",
+            "imgUrl": "https://upload-images.jianshu.io/upload_images/12535555-6fe2d70a54d50f02.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+        },
+        {
+            "id": 2,
+            "title": "社会热点2255555555555",
+            "imgUrl": "https://upload-images.jianshu.io/upload_images/12535555-6fe2d70a54d50f02.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+        },
+        {
+            "id": 3,
+            "title": "社会热点3335666666666",
+            "imgUrl": "https://upload-images.jianshu.io/upload_images/12535555-6fe2d70a54d50f02.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+        },
+        {
+            "id": 4,
+            "title": "社会热点444677777777",
+            "imgUrl": "https://upload-images.jianshu.io/upload_images/12535555-6fe2d70a54d50f02.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+        },
+        {
+            "id": 5,
+            "title": "社会热点555",
+            "imgUrl": "https://upload-images.jianshu.io/upload_images/12535555-6fe2d70a54d50f02.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+        }
+    ]
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "sucess":true,
+    "data":{
+        "topicList":[{
+            "id": 1,
+            "title": "社会热点",
+            "imgUrl": "https://upload-images.jianshu.io/upload_images/12535555-6fe2d70a54d50f02.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+        },
+        {
+            "id": 2,
+            "title": "社会热点22",
+            "imgUrl": "https://upload-images.jianshu.io/upload_images/12535555-6fe2d70a54d50f02.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+        },
+        {
+            "id": 3,
+            "title": "社会热点333",
+            "imgUrl": "https://upload-images.jianshu.io/upload_images/12535555-6fe2d70a54d50f02.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+        },
+        {
+            "id": 4,
+            "title": "社会热点444",
+            "imgUrl": "https://upload-images.jianshu.io/upload_images/12535555-6fe2d70a54d50f02.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+        },
+        {
+            "id": 5,
+            "title": "社会热点555",
+            "imgUrl": "https://upload-images.jianshu.io/upload_images/12535555-6fe2d70a54d50f02.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+        }
+    ],
+        "articList":[{
+            "id": 1,
+            "title": "测试是时候地上覅士大夫",
+            "desc": "内容啊内容啊内容啊内容啊内容啊内容啊内容啊",
+            "imgUrl": "https://upload-images.jianshu.io/upload_images/12535555-6fe2d70a54d50f02.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+        },
+        {
+            "id": 2,
+            "title": "测试是时候地上覅士大夫2",
+            "desc": "内容啊内容啊内容啊内容啊内容啊内容啊内容啊",
+            "imgUrl": "https://upload-images.jianshu.io/upload_images/12535555-6fe2d70a54d50f02.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+        },
+        {
+            "id": 3,
+            "title": "测试是时候地上覅士大夫3",
+            "desc": "内容啊内容啊内容啊内容啊内容啊内容啊内容啊",
+            "imgUrl": "https://upload-images.jianshu.io/upload_images/12535555-6fe2d70a54d50f02.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+        },
+        {
+            "id": 4,
+            "title": "测试是时候地上覅士大夫4",
+            "desc": "内容啊内容啊内容啊内容啊内容啊内容啊内容啊",
+            "imgUrl": "https://upload-images.jianshu.io/upload_images/12535555-6fe2d70a54d50f02.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+        }
+    ],
+    "recomendList":[
+        {
+            "id": 1,
+            "title": "测试是时候地上覅士大夫3",
+            "desc": "内容啊内容啊内容啊内容啊内容啊内容啊内容啊",
+            "imgUrl": "https://upload-images.jianshu.io/upload_images/12535555-6fe2d70a54d50f02.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+        },
+        {
+            "id": 2,
+            "title": "测试是时候地上覅士大夫3",
+            "desc": "内容啊内容啊内容啊内容啊内容啊内容啊内容啊",
+            "imgUrl": "https://upload-images.jianshu.io/upload_images/12535555-6fe2d70a54d50f02.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+        },
+        {
+            "id": 3,
+            "title": "测试是时候地上覅士大夫3",
+            "desc": "内容啊内容啊内容啊内容啊内容啊内容啊内容啊",
+            "imgUrl": "https://upload-images.jianshu.io/upload_images/12535555-6fe2d70a54d50f02.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+        }
+    ]
+    } 
+}
